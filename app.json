@@ -1,0 +1,8 @@
+{
+  "name": "Aurora",
+  "displayName": "Aurora",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7736102643495047~6148494427",
+    "ios_app_id": "ca-app-pub-7736102643495047~6148494427"
+  }
+}
